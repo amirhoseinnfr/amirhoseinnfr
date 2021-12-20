@@ -7,6 +7,6 @@
 - my instagram one_exploit && my site One_Exploit && my youtube one_exploit
 
 <!---
-amirhosein/amirhosein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+one_exploit/Delox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
